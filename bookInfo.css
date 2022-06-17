@@ -1,0 +1,47 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13;
+}
+TitleDetail, Price, OrderInfo, Edition{
+    display: block;
+    margin-bottom: 4;
+}
+
+Title {
+    color: rgb(36, 27, 160);
+    font-weight: bold;
+
+}
+EditionInfo {
+    font-weight: bold;
+}
+
+Price{
+    color: rgb(29, 87, 175);
+}
+NewPrice, OldPrice {
+    margin-left: 5;
+    margin-right: 5;
+    color: rgb(180,7,7);
+}
+NewPrice {
+    font-weight: bold;
+}
+GetDate{
+    font-weight: bold;
+}
+Hours, Minues {
+    font-weight: bold;
+    color: green;
+    font-size: 11;
+}
+Edition {
+    font-size: 10;
+    border-bottom: 1 dashed gray;
+    padding-bottom: 10;
+    margin-bottom: 7;
+}
+EditionType {
+    font-size: 10;
+    color: rgb(29, 87, 175));
+}

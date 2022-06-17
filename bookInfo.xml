@@ -1,0 +1,55 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="bookInfo.css"?>
+
+<book>
+    <bookDetail>
+        <TitleDetail>
+            <Title>First Java, 2nd Edition</Title> by
+            <Author>BAtes</Author>
+            { <EditionInfo>PageBack</EditionInfo> - 
+            <PrintDate>Feb 9, 2005</PrintDate> }
+        </TitleDetail>
+        <Price>
+            New price:
+            <NewPrice>$29.67</NewPrice>
+            Old price:
+            <OldPrice>$18.6</OldPrice>
+        </Price>
+        <OrderInfo>
+            Get it by
+            <GetDate>Tuesday, Feb, 27</GetDate>, If you order in the next
+            <Hours>57 hours and</Hours>
+            <Minues>43 minues</Minues>
+        </OrderInfo>
+        <Edition>Other edition:
+            <EditionType>PageBack</EditionType>
+        </Edition>
+    </bookDetail>
+</book>
+
+<book>
+    <bookDetail>
+        <TitleDetail>
+            <Title>First Java2, 2nd Edition</Title> by
+            <Author>BAtes</Author>
+            { <EditionInfo>PageBack</EditionInfo> - 
+            <PrintDate>Feb 9, 2005</PrintDate> }
+        </TitleDetail>
+        <Price>
+            New price:
+            <NewPrice>$29.67</NewPrice>
+            Old price:
+            <OldPrice>$18.6</OldPrice>
+        </Price>
+        <OrderInfo>
+            Get it by
+            <GetDate>Tuesday, Feb, 27</GetDate>, If you order in the next
+            <Hours>57 hours and</Hours>
+            <Minues>43 minues</Minues>
+        </OrderInfo>
+        <Edition>Other edition:
+            <EditionType>PageBack</EditionType>
+        </Edition>
+    </bookDetail>
+</book>
